@@ -1,0 +1,25 @@
+{
+    "name": "com.haru86.garnet_release",
+    "version": "5.4.2",
+    "displayName": "Garnet Release",
+    "description": "This is npm test",
+    "unity": "2019.1",
+    "keywords": [
+        "Haru86",
+        "Garnet",
+        "CG",
+        "GameEngine"
+    ],
+    "author": {
+        "name": "Haru86",
+        "email": "haru.spring.yodai@gmail.com"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@haruoogawa"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HaruoOgawa/Garnet_Release.git",
+        "directory": "com.haru86.garnet_release"
+    }
+}
